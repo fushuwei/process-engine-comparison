@@ -14,6 +14,7 @@
 
     <modules>
         <module>process-engine-comparison-camunda</module>
+        <module>process-engine-comparison-flowable</module>
     </modules>
 
 </project>
