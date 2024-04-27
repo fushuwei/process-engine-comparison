@@ -23,7 +23,7 @@ class FlowableApplicationTest {
     void deployProcess() {
         Deployment deployment = repositoryService.createDeployment()
                 .name("测试流程")
-                .addClasspathResource("测试流程.bpmn")
+                .addClasspathResource("测试流程.bpmn20.xml")
                 .deploy();
 
         System.out.println("流程部署 id = " + deployment.getId());

@@ -35,7 +35,7 @@ public class ProcessController {
     @GetMapping("deploy")
     public String deploy() {
         repositoryService.createDeployment()
-                .addClasspathResource("测试流程.bpmn")
+                .addClasspathResource("测试流程.bpmn20.xml")
                 .name("测试流程")
                 .deploy();
 

@@ -60,7 +60,7 @@ For further reference, please consider the following sections:
 * [Flowable Chinese](https://tkjohn.github.io/flowable-userguide/)
 * [Flowable all config](https://www.flowable.com/open-source/docs/bpmn/ch05a-Spring-Boot#flowable-application-properties)
 
-* [Camunda Chinese](http://camunda-cn.shaochenfeng.com/)
-* [Official Camunda documentation](https://docs.camunda.org/manual/latest/)
+- [Camunda Chinese](http://camunda-cn.shaochenfeng.com/)
+- [Official Camunda documentation](https://docs.camunda.org/manual/latest/)
 
 * [JMeter Chinese](https://jmeter.net/)
