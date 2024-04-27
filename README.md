@@ -2,20 +2,28 @@
 
 ## Project Description
 
-This project is used to test the performance of Java process engines Activiti, Flowable and Camunda. The purpose is to
-help people understand how to evaluate the technology selection of process engines in terms of performance.
+This project is used to test the functionality and performance of the Java process engines Activiti, Flowable and
+Camunda. Its purpose is to analyze the advantages and disadvantages of currently widely used process engine frameworks
+and help developers make the best choice.
 
-> **Statement: The test is based on the same environment and the same configuration**
+**Statement: The test is based on the same environment and the same configuration**
 
 ## Getting Started
 
 ### Requirements
 
+#### Hardware
+
+- CPU >= 8c
+- Mem >= 16g
+
+#### Software
+
 - JDK 17
 - Spring Boot 3.2.5
 - MySQL 8.0.33
-- Activiti
-- Flowable
+- Activiti 7.11.0
+- Flowable 7.0.1
 - Camunda 7.21.0
 - JMeter 5.6.3
 
