@@ -16,7 +16,6 @@
     <sequenceFlow id="sid-EB9F4F9B-A42D-4F52-AA9D-B7CE47998382" sourceRef="sid-F70743E4-457D-45B3-9745-B1F9755A76BA" targetRef="sid-79413258-FB5B-4BE1-B22D-8B07C294AC7B"></sequenceFlow>
     <endEvent id="sid-79B3D9DD-D6B7-4105-9628-4D0365376415" name="结束"></endEvent>
     <sequenceFlow id="sid-28D6EA2C-C5C7-41A5-A157-2B1089114117" sourceRef="sid-79413258-FB5B-4BE1-B22D-8B07C294AC7B" targetRef="sid-79B3D9DD-D6B7-4105-9628-4D0365376415"></sequenceFlow>
-    <sequenceFlow id="sid-286A5423-66DA-4C3C-85B5-4FE375CA4BFF" sourceRef="sid-AF6C4DAB-7C6D-4A59-BD22-EE18195874B0"></sequenceFlow>
   </process>
   <bpmndi:BPMNDiagram id="BPMNDiagram_Process_test">
     <bpmndi:BPMNPlane bpmnElement="Process_test" id="BPMNPlane_Process_test">
