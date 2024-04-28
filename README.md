@@ -6,7 +6,7 @@ This project is used to test the functionality and performance of the Java proce
 Camunda. Its purpose is to analyze the advantages and disadvantages of currently widely used process engine frameworks
 and help developers make the best choice.
 
-**Statement: The test is based on the same environment and the same configuration**
+> *Statement: The test is based on the same environment and the same configuration*
 
 ## Getting Started
 
