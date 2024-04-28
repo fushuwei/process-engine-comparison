@@ -13,8 +13,9 @@
     </properties>
 
     <modules>
-        <module>process-engine-comparison-camunda</module>
+        <module>process-engine-comparison-activiti</module>
         <module>process-engine-comparison-flowable</module>
+        <module>process-engine-comparison-camunda</module>
     </modules>
 
 </project>
